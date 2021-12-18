@@ -7,9 +7,11 @@ Este repositório ira mostrar os meus estudos em algoritmos utilizando o javascr
 # Enunciado do problema no site HackerRank
 
 - [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
+- [Simple Array Sum](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
 
 # Solução dos desafios
 
 - [Solve Me First](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Solve_me_first/index.js)
+- [Simple Array Sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Simple_array_sum/index.js)
 
 
