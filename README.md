@@ -7,8 +7,8 @@ Este repositório ira mostrar os meus estudos em algoritmos utilizando o javascr
 # Enunciado do problema no site HackerRank
 
 - [Solve Me First](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enuciados/solve-me-first-English.pdf)
-- [Simple Array Sum](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
-- [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
+- [Simple Array Sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enuciados/simple-array-sum-English.pdf)
+- [Compare the triplets](hhttps://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enuciados/compare-the-triplets-English.pdf)
 
 # Solução dos desafios
 
