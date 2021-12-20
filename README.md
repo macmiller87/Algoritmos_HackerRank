@@ -6,7 +6,7 @@ Este repositório ira mostrar os meus estudos em algoritmos utilizando o javascr
 
 # Enunciado do problema no site HackerRank
 
-- [Solve Me First](solve-me-first-English.pdf)
+- [Solve Me First](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/solve-me-first-English.pdf)
 - [Simple Array Sum](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
 - [Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
 
