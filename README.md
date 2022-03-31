@@ -1,6 +1,6 @@
 ## Algoritmos_HackerRank
 
-Este repositório ira mostrar os meus estudos em algoritmos utilizando o javascript e Sql no HackerRank.
+Este repositório ira mostrar os meus estudos em algoritmos e Query's utilizando o javascript e Sql no HackerRank.
 ## Desafios easy Javascript
 ### Enunciado dos problemas de Javascript no site HackerRank
 
