@@ -33,7 +33,7 @@ Este repositório ira mostrar os meus estudos em algoritmos e Query's utilizando
 - [Weather Observation Station 9](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Sql/weather-observation-station-9-English.pdf)
 - [Weather Observation Station 10](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Sql/weather-observation-station-10-English.pdf)
 
-### Solução dos desafios de SQL no site HackerRanck
+### Solução dos desafios de Query's SQL
 
 - [Japanese Cities Attributes](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/sql/Japanese_cities_attributes/index.sql)
 - [Japanese Cities Attributes Names](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/sql/Japanese_cities_names/index.sql)
