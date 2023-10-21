@@ -8,12 +8,14 @@ Este repositório ira mostrar os meus estudos em algoritmos e Query's utilizando
 - [Simple Array Sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/simple-array-sum-English.pdf)
 - [Compare the triplets](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/compare-the-triplets-English.pdf)
 - [A very Big Sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/a-very-big-sum-English.pdf)
+- [Diagonal Difference](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/diagonal-difference-English.pdf)
 ### Solução dos desafios de Javascript
 
 - [Solve Me First](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Solve_me_first/index.js)
 - [Simple Array Sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Simple_array_sum/index.js)
 - [Compare the triplets](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Compare_the_triplets/index.js)
 - [A very Big Sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/A_very_big_sum/index.js)
+- [Diagonal Difference](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Diagonal_Difference/index.js)
 ## Desafios easy SQL
 ### Enunciado do problema de SQL no site HackerRank
 
