@@ -12,6 +12,7 @@ Este repositório ira mostrar os meus estudos em algoritmos e Query's utilizando
 - [Plus Minus](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/plus-minus-English.pdf)
 - [Staircase](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/staircase-English.pdf)
 - [Mini-max-sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/mini-max-sum-English.pdf)
+- [Birthday cake candles](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/birthday-cake-candles-English.pdf)
 ### Solução dos desafios de Javascript
 
 - [Solve Me First](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Solve_me_first/index.js)
@@ -22,6 +23,7 @@ Este repositório ira mostrar os meus estudos em algoritmos e Query's utilizando
 - [Plus Minus](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Plus_minus/index.js)
 - [Staircase](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Staircase/index.js)
 - [Mini-max-sum](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Mini_max_sum/index.js)
+- [Birthday cake candles](https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Birthday_cake_candles/index.js)
 ## Desafios easy SQL
 ### Enunciado do problema de SQL no site HackerRank
 
