@@ -5,11 +5,11 @@
 </p>
 
 - Este repositório ira mostrar os meus estudos em algoritmos e Query's utilizando o javascript e Sql no HackerRank.
+
 ## Desafios easy Javascript
-### Enunciado dos problemas de Javascript no site HackerRank
 
 <details open>
-  <summary>Solução dos desafios de Javascrip</summary>
+  <summary>Enunciado dos problemas de Javascript no site HackerRank</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/solve-me-first-English.pdf">Solve Me First</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/simple-array-sum-English.pdf">Simple Array Sum</a></li>
@@ -22,8 +22,6 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/birthday-cake-candles-English.pdf">Birthday-cake-candles</a></li>
     </ol>
 </details>
-
-### Solução dos desafios de Javascript
 
 <details open>
   <summary>Solução dos desafios de Javascrip</summary>
@@ -41,10 +39,9 @@
 </details>
 
 ## Desafios easy SQL
-### Enunciado do problema de SQL no site HackerRank
 
 <details open>
-  <summary>Solução dos desafios de Javascrip</summary>
+  <summary>Enunciado do problema de SQL no site HackerRank</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Sql/japanese-cities-attributes-English.pdf">Japanese Cities Attributes</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Sql/japanese-cities-name-English.pdf">Japanese Cities Attributes Names</a></li>
@@ -64,10 +61,8 @@
     </ol>
 </details>
 
-### Solução dos desafios de Query's SQL
-
 <details open>
-  <summary>Solução dos desafios de Javascrip</summary>
+  <summary>Solução dos desafios de Query's SQL</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/sql/Japanese_cities_attributes/index.sql">Japanese Cities Attributes</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/sql/Japanese_cities_names/index.sql">Japanese Cities Attributes Names</a></li>
