@@ -8,7 +8,7 @@
 
 ## Desafios easy Javascript
 
-<details open>
+<details>
   <summary>Enunciado dos problemas de Javascript no site HackerRank</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/solve-me-first-English.pdf">Solve Me First</a></li>
@@ -21,10 +21,12 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/mini-max-sum-English.pdf">Mini-max-sum</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/birthday-cake-candles-English.pdf">Birthday-cake-candles</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/time-conversion-English.pdf">Time-conversion</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/grading-English.pdf">Grading-Students
+</a></li>
     </ol>
 </details>
 
-<details open>
+<details>
   <summary>Solução dos desafios de Javascrip</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Solve_me_first/index.js">Solve Me First</a></li>
@@ -37,12 +39,13 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Mini_max_sum/index.js">Mini-max-sum</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Birthday_cake_candles/index.js">Birthday-cake-candles</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Time-conversion/index.js">Time-conversion</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Grading-Students/index.js">Grading-Student</a></li>
     </ol>
 </details>
 
 ## Desafios easy SQL
 
-<details open>
+<details>
   <summary>Enunciado dos problemas de SQL no site HackerRank</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Sql/japanese-cities-attributes-English.pdf">Japanese Cities Attributes</a></li>
@@ -63,7 +66,7 @@
     </ol>
 </details>
 
-<details open>
+<details>
   <summary>Solução dos desafios de Query's SQL</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/sql/Japanese_cities_attributes/index.sql">Japanese Cities Attributes</a></li>
