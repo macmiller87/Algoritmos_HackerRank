@@ -39,7 +39,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Mini_max_sum/index.js">Mini-max-sum</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Birthday_cake_candles/index.js">Birthday-cake-candles</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Time-conversion/index.js">Time-conversion</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Grading-Students/index.js">Grading-Student</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Grading_Students/index.js">Grading-Students</a></li>
     </ol>
 </details>
 
