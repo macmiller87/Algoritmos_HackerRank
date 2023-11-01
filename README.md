@@ -22,12 +22,13 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/birthday-cake-candles-English.pdf">Birthday-cake-candles</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/time-conversion-English.pdf">Time-conversion</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/grading-English.pdf">Grading-Students
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/apple-and-orange-English.pdf">Apple-and-Orange
 </a></li>
     </ol>
 </details>
 
 <details>
-  <summary>Solução dos desafios de Javascrip</summary>
+  <summary>Solução dos desafios de Javascript</summary>
     <ol>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Solve_me_first/index.js">Solve Me First</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Simple_array_sum/index.js">Simple Array Sum</a></li>
@@ -40,6 +41,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Birthday_cake_candles/index.js">Birthday-cake-candles</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Time-conversion/index.js">Time-conversion</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Grading_Students/index.js">Grading-Students</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Apple_and_Orange/index.js">Apple-and-Orange</a></li>
     </ol>
 </details>
 
