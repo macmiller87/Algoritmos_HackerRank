@@ -23,6 +23,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/time-conversion-English.pdf">Time-conversion</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/grading-English.pdf">Grading-Students
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/apple-and-orange-English.pdf">Apple-and-Orange
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/kangaroo-English.pdf">Number-Line-Jumps
 </a></li>
     </ol>
 </details>
@@ -42,6 +43,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Time-conversion/index.js">Time-conversion</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Grading_Students/index.js">Grading-Students</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Apple_and_Orange/index.js">Apple-and-Orange</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Number_line_jumps/index.js">Number-Line-Jumps</a></li>
     </ol>
 </details>
 
