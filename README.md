@@ -25,6 +25,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/apple-and-orange-English.pdf">Apple-and-Orange
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/kangaroo-English.pdf">Number-Line-Jumps
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/between-two-sets-English.pdf">Between-two-sets
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/breaking-best-and-worst-records-English.pdf">Breaking-the-Records
 </a></li>
     </ol>
 </details>
@@ -46,6 +47,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Apple_and_Orange/index.js">Apple-and-Orange</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Number_line_jumps/index.js">Number-Line-Jumps</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Between_two_sets/index.js">Between-two-sets</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Breaking_the_Records/index.js">Breaking-the-Records</a></li>
     </ol>
 </details>
 
