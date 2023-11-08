@@ -27,6 +27,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/between-two-sets-English.pdf">Between-two-sets
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/breaking-best-and-worst-records-English.pdf">Breaking-the-Records
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-birthday-bar-English.pdf">SubArray-Division
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/divisible-sum-pairs-English.pdf">Divisible-Sum-Pairs
 </a></li>
     </ol>
 </details>
@@ -50,6 +51,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Between_two_sets/index.js">Between-two-sets</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Breaking_the_Records/index.js">Breaking-the-Records</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/SubArray_division/index.js">SubArray-Division</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Divisible_Sum_Pairs/index.js">Divisible-Sum-Pairs</a></li>
     </ol>
 </details>
 
