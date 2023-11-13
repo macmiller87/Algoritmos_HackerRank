@@ -30,6 +30,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/divisible-sum-pairs-English.pdf">Divisible-Sum-Pairs
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/migratory-birds-English.pdf">Migratory-birds
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/day-of-the-programmer-English.pdf">Day-of-the-Programmer
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/bon-appetit-English.pdf">Bill-Division
 </a></li>
     </ol>
 </details>
@@ -56,6 +57,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Divisible_Sum_Pairs/index.js">Divisible-Sum-Pairs</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Migratory_birds/index.js">Migratory-birds</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Day_of_the_Programmer/index.js">Day-of-the-Programmer</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Bill_Division/index.js">Bill-Division</a></li>
     </ol>
 </details>
 
