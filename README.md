@@ -37,6 +37,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/electronics-shop-English.pdf">Electronics-Shop
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/cats-and-a-mouse-English.pdf">Cats-and-a-Mouse
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/picking-numbers-English.pdf">Picking-Numbers
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-hurdle-race-English.pdf">The-Hurdle-Race
 </a></li>
     </ol>
 </details>
@@ -70,6 +71,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Electronics_Shop/index.js">Electronics-Shop</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Cats_and_a_Mouse/index.js">Cats-and-a-Mouse</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Picking_Numbers/index.js">Picking-Numbers</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/The_Hurdle_Race/index.js">The-Hurdle-Race</a></li>
     </ol>
 </details>
 
