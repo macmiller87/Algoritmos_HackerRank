@@ -72,7 +72,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Cats_and_a_Mouse/index.js">Cats-and-a-Mouse</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Picking_Numbers/index.js">Picking-Numbers</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/The_Hurdle_Race/index.js">The-Hurdle-Race</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Designer_PDF_Viewer.js">Designer-PDF-Viewer</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Designer_PDF_Viewer/index.js">Designer-PDF-Viewer</a></li>
     </ol>
 </details>
 
