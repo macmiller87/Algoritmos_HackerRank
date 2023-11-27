@@ -21,24 +21,24 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/mini-max-sum-English.pdf">Mini-max-sum</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/birthday-cake-candles-English.pdf">Birthday-cake-candles</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/time-conversion-English.pdf">Time-conversion</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/grading-English.pdf">Grading-Students
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/apple-and-orange-English.pdf">Apple-and-Orange
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/kangaroo-English.pdf">Number-Line-Jumps
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/between-two-sets-English.pdf">Between-two-sets
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/breaking-best-and-worst-records-English.pdf">Breaking-the-Records
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-birthday-bar-English.pdf">SubArray-Division
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/divisible-sum-pairs-English.pdf">Divisible-Sum-Pairs
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/migratory-birds-English.pdf">Migratory-birds
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/day-of-the-programmer-English.pdf">Day-of-the-Programmer
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/bon-appetit-English.pdf">Bill-Division
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/sock-merchant-English.pdf">Sales-by-Match
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/drawing-book-English.pdf">Drawing-Book
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/counting-valleys-English.pdf">Counting-Valleys
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/electronics-shop-English.pdf">Electronics-Shop
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/cats-and-a-mouse-English.pdf">Cats-and-a-Mouse
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/picking-numbers-English.pdf">Picking-Numbers
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-hurdle-race-English.pdf">The-Hurdle-Race
-</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/grading-English.pdf">Grading-Students</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/apple-and-orange-English.pdf">Apple-and-Orange</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/kangaroo-English.pdf">Number-Line-Jumps</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/between-two-sets-English.pdf">Between-two-sets</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/breaking-best-and-worst-records-English.pdf">Breaking-the-Records</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-birthday-bar-English.pdf">SubArray-Division</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/divisible-sum-pairs-English.pdf">Divisible-Sum-Pairs</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/migratory-birds-English.pdf">Migratory-birds</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/day-of-the-programmer-English.pdf">Day-of-the-Programmer</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/bon-appetit-English.pdf">Bill-Division</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/sock-merchant-English.pdf">Sales-by-Match</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/drawing-book-English.pdf">Drawing-Book</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/counting-valleys-English.pdf">Counting-Valleys</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/electronics-shop-English.pdf">Electronics-Shop</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/cats-and-a-mouse-English.pdf">Cats-and-a-Mouse</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/picking-numbers-English.pdf">Picking-Numbers</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-hurdle-race-English.pdf">The-Hurdle-Race</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/designer-pdf-viewer-English.pdf">Designer-PDF-Viewer</a></li>
     </ol>
 </details>
 
@@ -72,6 +72,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Cats_and_a_Mouse/index.js">Cats-and-a-Mouse</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Picking_Numbers/index.js">Picking-Numbers</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/The_Hurdle_Race/index.js">The-Hurdle-Race</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Designer_PDF_Viewer.js">Designer-PDF-Viewer</a></li>
     </ol>
 </details>
 
