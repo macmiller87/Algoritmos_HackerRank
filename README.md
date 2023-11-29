@@ -40,6 +40,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/the-hurdle-race-English.pdf">The-Hurdle-Race</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/designer-pdf-viewer-English.pdf">Designer-PDF-Viewer</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/utopian-tree-English.pdf">Utopian-Tree</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/angry-professor-English.pdf">Angry-Professor</a></li>
     </ol>
 </details>
 
@@ -75,6 +76,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/The_Hurdle_Race/index.js">The-Hurdle-Race</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Designer_PDF_Viewer/index.js">Designer-PDF-Viewer</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Utopian_Tree/index.js">Utopian-Tree</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Angry_Professor/index.js">Angry-Professor</a></li>
     </ol>
 </details>
 
