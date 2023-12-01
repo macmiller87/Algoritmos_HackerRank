@@ -41,7 +41,8 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/designer-pdf-viewer-English.pdf">Designer-PDF-Viewer</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/utopian-tree-English.pdf">Utopian-Tree</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/angry-professor-English.pdf">Angry-Professor</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/beautiful-days-at-the-movies-English.pdf">Beautiful-Days-at-the-Moviesh</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/beautiful-days-at-the-movies-English.pdf">Beautiful-Days-at-the-Movies</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/strange-advertising-English.pdf">Viral-Advertising</a></li>
     </ol>
 </details>
 
@@ -79,6 +80,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Utopian_Tree/index.js">Utopian-Tree</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Angry_Professor/index.js">Angry-Professor</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Beautiful_Days_at_the_Movies/index.js">Beautiful-Days-at-the-Movies</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Viral_Advertising/index.js">Viral-Advertising</a></li>
     </ol>
 </details>
 
