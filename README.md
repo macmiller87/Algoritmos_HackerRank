@@ -45,6 +45,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/strange-advertising-English.pdf">Viral-Advertising</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/save-the-prisoner-English.pdf">Save-the-Prisoner</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/circular-array-rotation-English.pdf">Circular-Array-Rotation</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/permutation-equation-English.pdf">Sequence-Equation</a></li>
     </ol>
 </details>
 
@@ -85,8 +86,9 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Viral_Advertising/index.js">Viral-Advertising</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Save_the_Prisoner/index.js">Save-the-Prisoner</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Circular_Array_Rotation/index.js">Circular-Array-Rotation</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Sequence_Equation/index.js">Sequence-Equation</a></li>
     </ol>
-</details>'
+</details>
 
 ## Desafios easy SQL
 
