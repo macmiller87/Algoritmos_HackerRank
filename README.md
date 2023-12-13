@@ -94,7 +94,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Jumping_on_the_Clouds_Revisited/index.js">Jumping-on-the-Clouds-Revisited</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Find_Digits/index.js">Find-Digits</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Append_and_Delete/index.js">Append-and-Delete</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Sherlock-and-Squares/index.js">Sherlock-and-Squares</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Sherlock_and_Squares/index.js">Sherlock-and-Squares</a></li>
     </ol>
 </details>
 
