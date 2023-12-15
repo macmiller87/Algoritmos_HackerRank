@@ -51,6 +51,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/append-and-delete-English.pdf">Append-and-Delete</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/sherlock-and-squares-English.pdf">Sherlock-and-Squares</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/library-fine-English.pdf">Library-Fine</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/cut-the-sticks-English.pdf">Cut-the-sticks</a></li>
     </ol>
 </details>
 
@@ -97,6 +98,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Append_and_Delete/index.js">Append-and-Delete</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Sherlock_and_Squares/index.js">Sherlock-and-Squares</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Library_Fine/index.js">Library-Fine</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Cut_the_sticks/index.js">Cut-the-sticks</a></li>
     </ol>
 </details>
 
