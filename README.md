@@ -53,7 +53,8 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/library-fine-English.pdf">Library-Fine</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/cut-the-sticks-English.pdf">Cut-the-sticks</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/repeated-string-English.pdf">Repeated-String</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/jumping-on-the-clouds-English.pdf">jumping-on-the-clouds</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/jumping-on-the-clouds-English.pdf">Jumping-on-the-clouds</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/equality-in-a-array-English.pdf">Equalize-the-Array</a></li>
     </ol>
 </details>
 
@@ -102,7 +103,8 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Library_Fine/index.js">Library-Fine</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Cut_the_sticks/index.js">Cut-the-sticks</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Repeated_String/index.js">Repeated-String</a></li>
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Jumping_on_the_Clouds/index.js">jumping-on-the-clouds</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Jumping_on_the_Clouds/index.js">Jumping-on-the-clouds</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Equalize_the_Array/index.js">Equalize-the-Array</a></li>
     </ol>
 </details>
 
