@@ -56,6 +56,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/jumping-on-the-clouds-English.pdf">Jumping-on-the-clouds</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/equality-in-a-array-English.pdf">Equalize-the-Array</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/acm-icpc-team-English.pdf">ACM-ICPC-Team</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/taum-and-bday-English.pdf">Taum-and-B'day</a></li>
     </ol>
 </details>
 
@@ -107,6 +108,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Jumping_on_the_Clouds/index.js">Jumping-on-the-clouds</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Equalize_the_Array/index.js">Equalize-the-Array</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/ACM_ICPC_Team/index.js">ACM-ICPC-Team</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Taum_and_Bday/index.js">Taum-and-B'day</a></li>
     </ol>
 </details>
 
