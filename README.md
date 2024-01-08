@@ -110,11 +110,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Equalize_the_Array/index.js">Equalize-the-Array</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/ACM_ICPC_Team/index.js">ACM-ICPC-Team</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Taum_and_Bday/index.js">Taum-and-B'day</a></li>
-<<<<<<< HEAD
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Modified_Kaprekar_Numbers/index.js">Modified-Kaprekar-Numbers</a></li>
-=======
-      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Modified-Kaprekar-Numbers/index.js">Modified-Kaprekar-Numbers</a></li>
->>>>>>> 9e253d068b908a5bea1880030b84110358fcdcbf
     </ol>
 </details>
 
