@@ -59,6 +59,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/taum-and-bday-English.pdf">Taum-and-B'day</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/kaprekar-numbers-English.pdf">Modified-Kaprekar-Numbers</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/beautiful-triplets-English.pdf">Beautiful-Triplets</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/minimum-distances-English.pdf">Minimum-Distances</a></li>
     </ol>
 </details>
 
@@ -113,6 +114,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Taum_and_Bday/index.js">Taum-and-B'day</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Modified_Kaprekar_Numbers/index.js">Modified-Kaprekar-Numbers</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Beautiful_Triplets/index.js">Beautiful-Triplets</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Minimum_Distances/index.js">Minimum-Distances</a></li>
     </ol>
 </details>
 
