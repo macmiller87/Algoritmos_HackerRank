@@ -62,6 +62,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/minimum-distances-English.pdf">Minimum-Distances</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/halloween-sale-English.pdf">Halloween-Sale</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/chocolate-feast-English.pdf">Chocolate-Feast</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/service-lane-English.pdf">Service-Lane</a></li>
     </ol>
 </details>
 
@@ -119,6 +120,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Minimum_Distances/index.js">Minimum-Distances</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Halloween_Sale/index.js">Halloween-Sale</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Chocolate_Feast/index.js">Chocolate-Feast</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Service_Lane/index.js">Service-Lane</a></li>
     </ol>
 </details>
 
