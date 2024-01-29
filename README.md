@@ -65,6 +65,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/service-lane-English.pdf">Service-Lane</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/lisa-workbook-English.pdf">Lisa's-Workbook</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/fair-rations-English.pdf">Fair-Rations</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/Enunciados_Javascript/cavity-map-English.pdf">Cavity-Map</a></li>
     </ol>
 </details>
 
@@ -125,6 +126,7 @@
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Service_Lane/index.js">Service-Lane</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Lisa_Workbook/index.js">Lisa's-Workbook</a></li>
       <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Fair_Rations/index.js">Fair-Rations</a></li>
+      <li><a href="https://github.com/macmiller87/Algoritmos_HackerRank/blob/main/javascript/Cavity_Map/index.js">Cavity-Map</a></li>
     </ol>
 </details>
 
